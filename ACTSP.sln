@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACTSP", "ACTSP\ACTSP.vcproj", "{1BC55F9F-1132-4A7A-9784-8BC2BDEEC606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC55F9F-1132-4A7A-9784-8BC2BDEEC606}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1BC55F9F-1132-4A7A-9784-8BC2BDEEC606}.Debug|Win32.Build.0 = Debug|Win32
+		{1BC55F9F-1132-4A7A-9784-8BC2BDEEC606}.Release|Win32.ActiveCfg = Release|Win32
+		{1BC55F9F-1132-4A7A-9784-8BC2BDEEC606}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
